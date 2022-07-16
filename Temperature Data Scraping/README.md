@@ -102,6 +102,8 @@ For visualization purpose, I have chosen the 'City of Joy'. I iterated over the 
 
 <br>
 
+Please find the code at [script.py](https://github.com/SandipPalit/Data-Engineering/blob/main/Temperature%20Data%20Scraping/script.py) and the output dataset at [Kaggle](https://www.kaggle.com/datasets/sandippalit009/seasonal-temperature-of-indian-travel-destinations).
+
 If you like this project, then please give it a ⭐.
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sandip-palit/).
